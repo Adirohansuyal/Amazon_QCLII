@@ -1,4 +1,4 @@
-# 🚀 Space Shooter Game - Enhanced Edition
+# 🚀 Space Shooter Game 
 
 An epic 2D space shooter game built with Python and Pygame, featuring progressive difficulty, procedural audio, and exciting combat mechanics!
 
