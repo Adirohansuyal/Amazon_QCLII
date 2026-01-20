@@ -1,4 +1,4 @@
-# 🚀 Space Shooter Game 
+# 🚀 Space Shooter Game: Build Using Amazon AWS CLI
 
 An epic 2D space shooter game built with Python and Pygame, featuring progressive difficulty, procedural audio, and exciting combat mechanics!
 
